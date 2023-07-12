@@ -1,11 +1,6 @@
 ### Hi there, i'm **Dayana Rocha** 👋 👋 👋 
-<a href="https://www.linkedin.com/in/dayana-rocha-97a5a91b8" target="_blank" id="linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br/>
-<a href="https://stackoverflow.com/users/22213189/dayana-rocha" target="_blank" id="stackoverflow">
-    <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" />
-</a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-rocha-97a5a91b8/) <br/>
+[![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/22213189/dayana-rocha)
 
 I LOVE PROGRAMMING 💻 
 and solve problems 🕵️‍♀️.
