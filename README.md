@@ -30,7 +30,7 @@ and solve problems 🕵️‍♀️.
 </div>
 
 
-#### Technologies I've also used
+#### Other technologies I've used
 <div style="display: inline-block"> 
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
